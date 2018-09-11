@@ -1,0 +1,27 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "Interview Event",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run dev & npm run backend",
+    "dev": "npx parcel public/index.html",
+    "backend": "npx json-server --watch data/backend.json --no-cors",
+    "test": "test.js "
+  },
+  "keywords": [
+    "Interivew",
+    "Event"
+  ],
+  "author": "Alberto Navarro",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.0",
+    "parcel": "^1.9.7"
+  },
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "reset.css": "^2.0.2"
+  }
+}

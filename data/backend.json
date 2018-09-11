@@ -1,0 +1,9 @@
+{
+  "posts": [
+   {"id": 1, "data":"Hello"}
+  ],
+  "comments": [
+
+  ],
+  "application": { "name": "Application" }
+}
