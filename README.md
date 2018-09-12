@@ -1,5 +1,5 @@
 # devReady
-A squeleton project for React implementing ES6.
+A skeleton project for React implementing ES6.
 It includes:
 * Jest and Enzyme for Testing
 * JSON-SERVER for Back End Mocking
